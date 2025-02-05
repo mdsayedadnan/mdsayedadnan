@@ -5,7 +5,7 @@
 
 </p>
 
-# Hello World!,I'm Sayed adnan,frontend web developer
+# Hello World !,I'm Sayed adnan
 
 <P>
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -35,7 +35,7 @@ Skills:  REACT / JS / HTML / CSS/TAILWIND/MONGODB/JAVASCRIPT
 ###
 
 
-<h3 align="left">🛠 I use for coddig</h3>
+<h3 align="left">🛠 My Skills and Framewarks Tools</h3>
 
 ###
 

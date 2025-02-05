@@ -5,7 +5,7 @@
 
 Skills:  REACT / JS / HTML / CSS/TAILWIND/MONGODB/JAVASCRIPT
 
-- 🔭 I’m currently working on Next.js Project 
+- 🔭 I’m currently working on programing hero
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web devolopment 

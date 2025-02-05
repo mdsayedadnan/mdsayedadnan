@@ -1,5 +1,5 @@
 ![](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-1/438205754_1789871898156050_5098238815792387126_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeEEUYyxD5Nz_tqmrHx0CF5x7ph88pjKE2_umHzymMoTb8I_MwXEdq9flyTPMii5mRIChhDpug6l4z1DhPkiRtU9&_nc_ohc=NSDTzbwe5vgQ7kNvgFaMf54&_nc_zt=24&_nc_ht=scontent.fdac24-1.fna&_nc_gid=A6OxjLbb3rkafqrfcisb8C4&oh=00_AYBqgbI87U9ClTPU7xEv5Gq09mvMTpl4OekaFuvRDXm9aA&oe=67A8B075)
-# Hello World!,I'm Sayed adnan,Web Developer
+# Hello World!,I'm Sayed adnan,frontend web developer
 
 <P>
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -17,7 +17,7 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 </P>
 
- As a frontend web developer, you specialize in building the user-facing parts of websites and web applications. Your work involves using technologies like HTML, CSS, and JavaScript to create visually appealing, responsive, and interactive user interfaces. You likely work with frameworks and libraries like React, Vue, or daisyul and may also use tools like Tailwind CSS, Bootstrap, or SASS for styling.
+"I am a passionate Frontend Web Developer with a strong focus on creating responsive, user-friendly, and visually appealing web experiences. Skilled in HTML, CSS, JavaScript, and modern frameworks like React, I love bringing designs to life with clean and efficient code. Always eager to learn and explore new technologies to enhance web development.".
 
 Skills:  REACT / JS / HTML / CSS/TAILWIND/MONGODB/JAVASCRIPT
 
